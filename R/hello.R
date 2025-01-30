@@ -21,3 +21,7 @@ res1 <- function(d,e){
   f=d-e
   print(f)
 }
+poten1 <- function(b,e){
+  p=b^e
+print(p)
+}
